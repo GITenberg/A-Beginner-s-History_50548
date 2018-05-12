@@ -1,10 +1,16 @@
 _repo: A-Beginner-s-History_50548
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50548-h/images/cover.jpg
 creator:
   author:
     agent_name: Mace, William H.
     gutenberg_agent_id: '45969'
     url: http://www.gutenberg.org/2009/agents/45969
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50548#A-Beginner-s-History
 gutenberg_issued: '2015-11-25'
 gutenberg_type: Text
 identifiers:
